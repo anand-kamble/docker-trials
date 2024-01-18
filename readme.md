@@ -1,7 +1,3 @@
-No worries! You can create a simple README for your trial project. Here's a basic template:
-
----
-
 # Docker Trial Project
 
 This is a trial project to experiment with Docker and Docker Compose.
@@ -65,19 +61,3 @@ To get into a container, run the following commands in a new terminal:
 ```bash
 docker exec -it mydockerfile-web-1 bash
 ```
-
-## Contributing
-
-Feel free to contribute by experimenting with Docker and making improvements.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE.md).
-
-## Acknowledgments
-
-Thank you to the Docker community for providing a powerful containerization solution.
-
----
-
-Remember to replace placeholders like "[MIT License]" with the actual license information, and include a license file (e.g., LICENSE.md) with the license text.
